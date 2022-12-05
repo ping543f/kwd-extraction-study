@@ -17,10 +17,10 @@ M. Saef Ullah Miah1, Junaida Sulaiman1,2, Talha Bin Sarwar3, Kamal Z. Zamli1 and
 you can create an issue in this repository providing your contact details.
 
 
-@cite this:
+@cite this:\n
 M. Saef Ullah Miah, Junaida Sulaiman, Talha Bin Sarwar, Kamal Z. Zamli, Rajan Jose, "Study of Keyword Extraction Techniques for Electric Double-Layer Capacitor Domain Using Text Similarity Indexes: An Experimental Analysis", Complexity, vol. 2021, Article ID 8192320, 12 pages, 2021. https://doi.org/10.1155/2021/8192320
 
-@bibtex:
+@bibtex:\n
 @article{miah2021study,
   title={Study of keyword extraction techniques for electric double-layer capacitor domain using text similarity indexes: An experimental analysis},
   author={Miah, M and Sulaiman, Junaida and Sarwar, Talha Bin and Zamli, Kamal Z and Jose, Rajan},
